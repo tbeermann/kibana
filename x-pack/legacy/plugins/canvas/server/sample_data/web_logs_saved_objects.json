@@ -712,13 +712,13 @@
           "id": "asset-a1e77720-eb0b-42a0-a1c0-a159035e4f26",
           "@created": "2018-10-13T10:48:32.499Z",
           "type": "dataurl",
-          "value": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MS41MyA4Ny4yOSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNkOTI4NTk7fS5jbHMtMntmaWxsOiNmOTcxMDA7fS5jbHMtM3tmaWxsOiNmOWMxMDA7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5GaXJlIENvbG9yPC90aXRsZT48ZyBpZD0iTGF5ZXJfMiIgZGF0YS1uYW1lPSJMYXllciAyIj48ZyBpZD0iTGF5ZXJfMi0yIiBkYXRhLW5hbWU9IkxheWVyIDIiPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTMwLjc3LDBoMFM2MS41MywyNy43MSw2MS41Myw1Ni41M2MwLDE5LjI3LTEzLjc3LDMwLjc3LTMwLjc3LDMwLjc3aDBBMzAuOCwzMC44LDAsMCwxLDAsNTYuNTNDMCwyOC42OCwzMC43NywwLDMwLjc3LDBaIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNMzAuNzcsMjBoMHMyMy43LDIxLjM0LDIzLjcsNDMuNTRjMCwxNC44NC0xMC42MSwyMy43LTIzLjcsMjMuN2gwYTIzLjczLDIzLjczLDAsMCwxLTIzLjctMjMuN0M3LjA3LDQyLjE0LDMwLjc3LDIwLDMwLjc3LDIwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTMwLjc3LDUyLjA3aDBTNDMuMTgsNjMuMjUsNDMuMTgsNzQuODhjMCw3Ljc3LTUuNTYsMTIuNDItMTIuNDIsMTIuNDJoMEExMi40MywxMi40MywwLDAsMSwxOC4zNSw3NC44OEMxOC4zNSw2My42NCwzMC43Nyw1Mi4wNywzMC43Nyw1Mi4wN1oiLz48L2c+PC9nPjwvc3ZnPg=="
+          "value": "https://www.desmogblog.com/sites/beta.desmogblog.com/files/styles/full_width_blog_image/public/blogimages/GE.png?itok=f-eRF5yd"
         },
         "asset-d2cca77f-ba40-4acb-beff-38fab19c7b65": {
           "id": "asset-d2cca77f-ba40-4acb-beff-38fab19c7b65",
           "@created": "2018-10-13T10:48:37.615Z",
           "type": "dataurl",
-          "value": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2MS41MyA4Ny4yOSI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM2ZDZlNzE7fS5jbHMtMntmaWxsOiM5Mzk1OTg7fS5jbHMtM3tmaWxsOiNiY2JlYzA7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5GaXJlIEdyYXk8L3RpdGxlPjxnIGlkPSJMYXllcl8yIiBkYXRhLW5hbWU9IkxheWVyIDIiPjxnIGlkPSJMYXllcl8yLTIiIGRhdGEtbmFtZT0iTGF5ZXIgMiI+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMzAuNzcsMGgwQTEyNi4yNSwxMjYuMjUsMCwwLDEsNDguMzIsMjAuNTNjNi45MSwxMC4xMywxMy4yMiwyMi45NSwxMy4yMiwzNiwwLDE5LjI3LTEzLjc3LDMwLjc3LTMwLjc3LDMwLjc3aDBBMzAuOCwzMC44LDAsMCwxLDAsNTYuNTNDMCwyOC42OCwzMC43NywwLDMwLjc3LDBaIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNMzAuNzcsMjBoMHMyMy43LDIxLjM0LDIzLjcsNDMuNTRjMCwxNC44NC0xMC42MSwyMy43LTIzLjcsMjMuN2gwYTIzLjczLDIzLjczLDAsMCwxLTIzLjctMjMuN0M3LjA3LDQyLjE0LDMwLjc3LDIwLDMwLjc3LDIwWiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTMwLjc3LDUyLjA3aDBTNDMuMTgsNjMuMjUsNDMuMTgsNzQuODhjMCw3Ljc3LTUuNTYsMTIuNDItMTIuNDIsMTIuNDJoMEExMi40MywxMi40MywwLDAsMSwxOC4zNSw3NC44OEMxOC4zNSw2My42NCwzMC43Nyw1Mi4wNywzMC43Nyw1Mi4wN1oiLz48L2c+PC9nPjwvc3ZnPg=="
+          "value": "https://www.desmogblog.com/sites/beta.desmogblog.com/files/styles/full_width_blog_image/public/blogimages/GE.png?itok=f-eRF5yd"
         },
         "asset-1343672d-7c02-4402-929e-0f8fef69cddd": {
           "id": "asset-1343672d-7c02-4402-929e-0f8fef69cddd",
